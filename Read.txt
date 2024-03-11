@@ -1,0 +1,5 @@
+Use live server in VS Code.
+Use Bootstrap.
+Make a pull request for every feature. For example, contact us row in a page. Make a branch of it. 
+If you're done, then create a pull request. If approved, create another branch for testimonials feature and so on.
+Thanks!
