@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Graduate&family=Gravitas+One&family=Irish+Grover&display=swap');
+
+.irish-grover-regular {
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .gravitas-one-regular {
+    font-family: "Gravitas One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 65px;
+  }
+  .graduate-regular {
+    font-family: "Graduate", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+  }
+.cust-nav-item{
+  color: #2F2F2FCC;
+}
+.cust-header-container{
+    padding-left: 110px;
+}
+.cust-inpt-dt{
+  width: 60%;
+}
+.cust-img1{
+    height: 470px;
+}
+.cust-img1 img{
+    height: 100%;
+    object-fit: cover;
+}
+.cust-logo{
+  font-size: 250px;
+}
+.cust-cards{
+  background-color: #E2E2E2;
+}
+.cust-contactus{
+  margin-top: 150px;
+  background-color: #F0F0F0;
+}
+.cust-last-container{
+  background-color: #2F2F2F;
+}
+.cust-txta{
+  height: 400px;
+}
